@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PermissionControlSystem</string>
+    <string name="str_appcompact">Sample AppCompact (non-compose)</string>
+    <string name="str_compose">Sample Compose</string>
+    <string name="str_single_permission">Single-Permission</string>
+    <string name="str_multi_permission">Multi-Permission</string>
+</resources>
